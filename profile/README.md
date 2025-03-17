@@ -1,12 +1,8 @@
-## Equipe Hackthoon Codecon
+# Equipe Hackthoon Codecon
 
-<!--
+## Equipe
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [**Daniel dos Santos Hinsching**](https://github.com/danielhinsching) – Função (Desenvolvedor Frontend) 
+- [**Eduardo Montandon**](https://github.com/1montandon) – Função (Desenvolvedor Fullstack) 
+- [**Gabriel Lima**](https://github.com/GabrielLima2803) – Função (Desenvolvedor Fullstack) 
+- [**Pedro Henrique**](https://github.com/BlackVSK) – Função (DevOps) 
