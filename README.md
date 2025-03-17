@@ -1,1 +1,1 @@
-# .github
+# Equipe Hackthoon Codecon
