@@ -1,9 +1,23 @@
-# Equipe Hackthoon Codecon
+# 🧠 GenIA – Currículo Sincero
 
-## Equipe
+## 📋 Sumário
 
-- [**Daniel dos Santos**](https://github.com/danielhinsching) – Desenvolvedor Fullstack 
-- [**Eduardo Montandon**](https://github.com/1montandon) – Desenvolvedor Fullstack 
-- [**Gabriel Lima**](https://github.com/GabrielLima2803) – Desenvolvedor Fullstack
-- [**Luiz Felipe**](https://github.com/LuizNunes06) – Desenvolvedor Fullstack 
-- [**Pedro Henrique**](https://github.com/BlackVSK) – DevOps
+- [Equipe](#equipe)
+- [Visão Geral](#visão-geral)
+- [Funcionalidades](#funcionalidades)
+- [Stacks Utilizadas](#stacks-utilizadas)
+- [Arquitetura](#arquitetura)
+- [Instalação e Execução](#instalação-e-execução)
+- [CI/CD & Infraestrutura](#cicd--infraestrutura)
+- [Monitoramento e Observabilidade](#monitoramento-e-observabilidade)
+- [Contribuindo](#contribuindo)
+- [Licença](#licença)
+  
+##equipe
+| Nome       | Função                                   |
+| ---------- | ---------------------------------------- |
+| **Black**  | DevOps, alcoólatra funcional 🍺          |
+| **Daniel** | Frontend, mexe onde ninguém quer olhar   |
+| **Luiz**   | Frontend, domador de bugs invisíveis     |
+| **Monta**  | Fullstack, talento + caos                |
+| **Lima**   | Fullstack, resolve o que ninguém entende |
