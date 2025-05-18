@@ -50,7 +50,6 @@ Se seu currículo é bom, ela tenta desviar dos pontos positivos. Se não é... 
 - Google Gemini 
 ### Banco & Cache 🧺
 - PostgreSQL
-- Redis
 ### DevOps & Deploy ☁️
 - GitHub Actions(CI/CD)
 - Docker
