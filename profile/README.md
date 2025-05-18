@@ -27,7 +27,10 @@
 
 > A verdade dói, mas é melhor do que ficar desempregado por insistir em dizer que sabe "Excel avançado".
 
-GenIA foi criada para avaliar currículos de forma direta e divertida, combatendo exageros e mentiras no papel. O projeto usa Inteligência Artificial (Google Gemini) integrada a uma aplicação web full-stack moderna, com infraestrutura escalável e foco em automação e boas práticas de DevOps.
+Conheça a GenIA: a inteligência artificial sem papas na língua que avalia currículos com sinceridade e mal humor! </br>
+Chega de enrolação e autoelogio sem fundamento — a GenIA foi criada para analisar currículos de forma direta, cruel e afiada, desmascarando exageros e destacando o que realmente importa... seus erros. </br>
+Por trás dessa personalidade marcante, há uma aplicação web full-stack moderna, impulsionada pela IA do Google Gemini. Tudo isso rodando em uma infraestrutura escalável, automatizada e construída com as melhores práticas de DevOps. </br>
+Se seu currículo é bom, ela tenta desviar dos pontos positivos. Se não é... bem, prepare-se para uma crise existencial, questionando toda sua carreira e trajetória profissional.
 
 
 ## 🚀 Funcionalidades
